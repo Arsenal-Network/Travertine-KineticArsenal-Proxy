@@ -41,11 +41,10 @@
       <module name="travertine-module-cmd-server" target="1.8" />
       <module name="travertine-module-reconnect-yaml" target="1.8" />
       <module name="travertine-native" target="1.8" />
-      <module name="travertine-parent" target="1.8" />
       <module name="travertine-protocol" target="1.8" />
+      <module name="Travertine-Proxy" target="1.8" />
       <module name="travertine-proxy" target="1.8" />
       <module name="travertine-query" target="1.8" />
-      <module name="travertine-super" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

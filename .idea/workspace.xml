@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="715c73c2-965e-4d3e-8091-78fb6d4dfa58" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Travertine-Proxy/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java" beforeDir="false" afterPath="$PROJECT_DIR$/Travertine-Proxy/protocol/src/main/java/net/md_5/bungee/protocol/Protocol.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Travertine-Proxy/proxy/src/main/java/net/md_5/bungee/BungeeCord.java" beforeDir="false" afterPath="$PROJECT_DIR$/Travertine-Proxy/proxy/src/main/java/net/md_5/bungee/BungeeCord.java" afterDir="false" />
-    </list>
+    <list default="true" id="71532b5e-6376-416b-b697-af2ec37bee41" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Travertine-Proxy" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1UoYv7PzDeXhPpoB7XpEEuYbs1p" />
+  <component name="ProjectId" id="1UoYshNzp5MIPG1De1aQ5H8fSs5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,11 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Travertine-Proxy" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -45,42 +38,34 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="715c73c2-965e-4d3e-8091-78fb6d4dfa58" name="Default Changelist" comment="" />
-      <created>1576024642376</created>
+      <changelist id="71532b5e-6376-416b-b697-af2ec37bee41" name="Default Changelist" comment="" />
+      <created>1576024623998</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1576024642376</updated>
+      <updated>1576024623998</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1576187364667">
+    <state x="-1180" y="280" key="FileChooserDialogImpl" timestamp="1576025043327">
       <screen x="-1920" y="1" width="1920" height="1050" />
     </state>
-    <state x="-1180" y="280" key="FileChooserDialogImpl/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576187364667" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576025123687">
+    <state x="-1180" y="280" key="FileChooserDialogImpl/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025043327" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1576025044310">
       <screen x="-1920" y="1" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025123687" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576025123687">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025044310" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1576025044310">
       <screen x="-1920" y="1" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025123687" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576025123687">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025044310" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1576025044310">
       <screen x="-1920" y="1" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025123687" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576025123687">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025044310" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1576025044310">
       <screen x="-1920" y="1" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025123687" />
-    <state x="-1480" y="99" key="SettingsEditor" timestamp="1576187261335">
-      <screen x="-1920" y="1" width="1920" height="1050" />
-    </state>
-    <state x="-1480" y="99" key="SettingsEditor/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576187261335" />
-    <state x="-1263" y="131" width="606" height="789" key="find.popup" timestamp="1576187545634">
-      <screen x="-1920" y="1" width="1920" height="1050" />
-    </state>
-    <state x="-1263" y="131" width="606" height="789" key="find.popup/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576187545634" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/-1920.1.1920.1050/0.0.1920.1050@-1920.1.1920.1050" timestamp="1576025044310" />
   </component>
 </project>

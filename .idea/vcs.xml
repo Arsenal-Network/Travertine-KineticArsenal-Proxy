@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Travertine-Proxy" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Waterfall" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Waterfall/BungeeCord" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Waterfall/Waterfall-Proxy" vcs="Git" />
   </component>
 </project>
