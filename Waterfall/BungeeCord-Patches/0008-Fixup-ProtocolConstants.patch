@@ -1,0 +1,30 @@
+From b6ece22debc4e9d518606f51d3fc8d65606632f5 Mon Sep 17 00:00:00 2001
+From: Troy Frew <fuzzy_bot@arenaga.me>
+Date: Tue, 15 Nov 2016 09:07:51 -0500
+Subject: [PATCH] Fixup ProtocolConstants
+
+
+diff --git a/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java b/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java
+index 4ba561a4..c34f6fa2 100644
+--- a/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java
++++ b/protocol/src/main/java/net/md_5/bungee/protocol/ProtocolConstants.java
+@@ -59,6 +59,16 @@ public class ProtocolConstants
+             ProtocolConstants.MINECRAFT_1_15
+     );
+ 
++    public static final boolean isBeforeOrEq(int before, int other)
++    {
++            return before <= other;
++    }
++
++    public static final boolean isAfterOrEq(int after, int other)
++    {
++            return after >= other;
++    }
++
+     public enum Direction
+     {
+ 
+-- 
+2.24.0
+
